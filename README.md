@@ -1,3 +1,3 @@
 # my-first-project
 
-hello
+hello people
